@@ -1,2 +1,2 @@
 # Monte-Carlo-Risk-Model-Using-Lognormal-Distribution
-Full Description in README
+Originally coded in C++, this project models a year-by-year prediction of potential claims. The lognormal distribution used in the code most accurately models the auto-insurance industry claim size. This code was then translated into Python. In this process, I took advantage of Pythons ease of modeling, and modeled each year's claim distribution on a histogram, while maintaining the same yearly average, highest, and total claim outputs used in the C++ version.
